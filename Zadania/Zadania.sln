@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrójkaPitagorejska", "Tró
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrojmianKwadratowy", "TrojmianKwadratowy\TrojmianKwadratowy.csproj", "{BEBFBA9E-5BE2-4C1A-B271-8EF85AB40270}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ŚredniaArytmetycznaMetody", "ŚredniaArytmetycznaMetody\ŚredniaArytmetycznaMetody.csproj", "{461BFEA8-7884-4AA0-88B9-02F8571CE487}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BEBFBA9E-5BE2-4C1A-B271-8EF85AB40270}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEBFBA9E-5BE2-4C1A-B271-8EF85AB40270}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEBFBA9E-5BE2-4C1A-B271-8EF85AB40270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461BFEA8-7884-4AA0-88B9-02F8571CE487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461BFEA8-7884-4AA0-88B9-02F8571CE487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461BFEA8-7884-4AA0-88B9-02F8571CE487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461BFEA8-7884-4AA0-88B9-02F8571CE487}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
